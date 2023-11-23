@@ -1,0 +1,12 @@
+FC Barcelona-BAR-1899
+Real Madrid-RMA-1902
+Atlético Madrid-ATM-1903
+Bayern München-FCB-1900
+RB Leipzig-RBL-2009
+Borussia Dortmund-BRD-1909
+AC Milan-ACM-1899
+AS Roma-ASR-1927
+Internazionale-INT-1908
+Manchester City-MCY-1880
+Liverpool-LIV-1892
+Manchester United-MUN-1878
